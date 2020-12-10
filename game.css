@@ -1,0 +1,39 @@
+body {
+    background-color:#DFDFDF;
+}
+#game-board {
+    width: 600px;
+    margin: auto;
+    padding: 1em;
+    background-color: white;
+}
+#score {
+    font-size: 1.5em;
+    margin: 1.25em;
+}
+#answer {
+    font-size: 1.5em;
+    margin: 1.25em;
+}
+#value {
+    font-size: 1.25em;
+    margin: 1.25em;
+}
+#category-title{
+    font-size: 1em;
+    margin: 1.25em;
+}
+#invalid-count{
+    font-size: 1em;
+    margin: 1.25em;
+}
+#question{
+    font-size: 1.25em;
+    margin: 1.25em;
+}
+#check-response{
+  margin: 0.5em 0em 0em 0em
+}
+.is-hidden{
+  display: none;
+}
